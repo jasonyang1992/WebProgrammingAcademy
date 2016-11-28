@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Logo{
+	color:#000000;
+}
+.Logo:hover{
+	text-decoration:none;
+	color:#000000;
+}
